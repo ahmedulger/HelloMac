@@ -1,8 +1,14 @@
 # HelloMac
 My personal osx settings
 
+**Customize General Settings Of System**
+  * Set option with named Prefer Tabs to "always" 
 
-**Customize Tollbar On Finder**
+**Customize Dock And Menu Bar Settings Of System**
+  * Disable option with name "Show Recent Applications in Dock"
+
+
+**Customize Finder**
   * Clean uncessary shortcuts from dock
   * Clear favourites list on left pane of finder
   * Add $HOME folder, Downloads and Desktop shortlinks to favourites pane on finder (Finder -> Preferences -> Sidebar)
