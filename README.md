@@ -1,8 +1,17 @@
 # HelloMac
 My personal osx settings
 
-1- Clean uncessary shortcuts from dock
-2- 
+
+**Customize Tollbar On Finder**
+  * Clean uncessary shortcuts from dock
+  * Clear favourites list on left pane of finder
+  * Add $HOME folder, Downloads and Desktop shortlinks to favourites pane on finder (Finder -> Preferences -> Sidebar)
+  * Add HardDisk shortlink to Locations pane on Finder (Finder -> Preferences -> Sidebar)
+  * To show all filename extensions: (Finder -> Preferences -> Advanced)
+  * Set default location when opening on Finder: (Finder -> Preferences -> General)
+  * Open Finder -> drag pointer to tollbar -> right click -> customize
+ ** Remove uncesssary buttons
+ ** Add path and new folder buttons by clicking and dragging
 
 Install thesee programs to make easy installing remaining programs
   * iTerm2
