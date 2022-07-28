@@ -23,3 +23,7 @@ Install thesee programs to make easy installing remaining programs
   * iTerm2
   * brew package manager
   * zsh
+
+**Customize Shortcuts**
+ * Remove cmd+space shortcut for spotlite: System Preferences > Keyboard > Shortcuts > Click spotlite on left column > unckeck both boxes on right
+ * Add command button responsibility on custom keyboard: System Preferences > Keyboard > Modifier Keys > Select command on right side for Control key
