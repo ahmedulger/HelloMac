@@ -5,4 +5,8 @@ export JAVA_HOME=$JAVA_HOME_11_0_16
 export GRADLE_HOME_7_5=/Users/ahmetulger/dev-env/tools/gradle-7.5
 export GRADLE_HOME=$GRADLE_HOME_7_5
 
-export PATH=$PATH:$GRADLE_HOME/bin
+
+export MAVEN_HOME_3_8_6=/Users/ahmetulger/dev-env/tools/apache-maven-3.8.6
+export MAVEN_HOME=$MAVEN_HOME_3_8_6
+
+export PATH=$PATH:$GRADLE_HOME/bin:$MAVEN_HOME/bin
