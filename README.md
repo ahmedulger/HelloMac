@@ -28,3 +28,8 @@ Install thesee programs to make easy installing remaining programs
  * Remove cmd+space shortcut for spotlite: System Preferences > Keyboard > Shortcuts > Click spotlite on left column > unckeck both boxes on right
  * Add command button responsibility on custom keyboard: System Preferences > Keyboard > Modifier Keys > Select command on right side for Control key
  * System Preferences > Keyboard > Input Sources > Add US Keboard and enable Show Input Menu In Menu bar
+
+**Additional Settings**
+ * To open terminal on any folder: Right clink on folder icon through the bottom navigation showing the path
+ * To enable the bottom navigation you should customize the finder settings and adjust the path
+ * To open any file through any application: open -a Application\ Name filename
