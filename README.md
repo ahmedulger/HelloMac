@@ -33,3 +33,6 @@ Install thesee programs to make easy installing remaining programs
  * To open terminal on any folder: Right clink on folder icon through the bottom navigation showing the path
  * To enable the bottom navigation you should customize the finder settings and adjust the path
  * To open any file through any application: open -a Application\ Name filename
+
+To list all hidden folders and files
+In terminal: defaults write com.apple.finder AppleShowAllFiles TRUE ; killall Finder
